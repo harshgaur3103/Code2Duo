@@ -1,2 +1,2 @@
-# Code-sync
+# Code2Duo
 Real-Time Code Editor
